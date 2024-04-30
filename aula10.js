@@ -80,7 +80,7 @@ For in para iterar sobre as propriedades dentro das notas, calcule a média e im
 // }
 
 //------------------------------------------
-/*PESQUISA BINÁRIA 
+/*BINARY SEARCH
 Desenvolva um algoritmo que seja capaz de receber uma lista, e um valor correto. E execute uma pesquisa binária para encontrar o valor certo.
 */ 
 
